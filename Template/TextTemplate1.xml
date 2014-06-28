@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" ?>
+<project>
+	<file>App.config</file>
+	<file>Program.cs</file>
+	<file>Template.csproj</file>
+	<file>TextTemplate1.tt</file>
+	<file>TextTemplate1.txt</file>
+</project>
